@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/mananshah12i/LeetCode/tree/master/0007-reverse-integer) |
+| [0171-excel-sheet-column-number](https://github.com/mananshah12i/LeetCode/tree/master/0171-excel-sheet-column-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0171-excel-sheet-column-number](https://github.com/mananshah12i/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/mananshah12i/LeetCode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/mananshah12i/LeetCode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/mananshah12i/LeetCode/tree/master/0383-ransom-note) |
