@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/mananshah12i/LeetCode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/mananshah12i/LeetCode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/mananshah12i/LeetCode/tree/master/0383-ransom-note) |
+| [0389-find-the-difference](https://github.com/mananshah12i/LeetCode/tree/master/0389-find-the-difference) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/mananshah12i/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 ## Hash Table
 |  |
@@ -27,10 +28,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/mananshah12i/LeetCode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/mananshah12i/LeetCode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/mananshah12i/LeetCode/tree/master/0383-ransom-note) |
+| [0389-find-the-difference](https://github.com/mananshah12i/LeetCode/tree/master/0389-find-the-difference) |
 ## Sorting
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/mananshah12i/LeetCode/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/mananshah12i/LeetCode/tree/master/0389-find-the-difference) |
 ## Counting
 |  |
 | ------- |
@@ -39,4 +42,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3875-construct-uniform-parity-array-i](https://github.com/mananshah12i/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/mananshah12i/LeetCode/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
