@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/mananshah12i/LeetCode/tree/master/0058-length-of-last-word) |
 | [0171-excel-sheet-column-number](https://github.com/mananshah12i/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/mananshah12i/LeetCode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/mananshah12i/LeetCode/tree/master/0290-word-pattern) |
