@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/mananshah12i/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/mananshah12i/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 ## String
 |  |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/mananshah12i/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/mananshah12i/LeetCode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/mananshah12i/LeetCode/tree/master/0389-find-the-difference) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mananshah12i/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/mananshah12i/LeetCode/tree/master/0088-merge-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mananshah12i/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3875-construct-uniform-parity-array-i](https://github.com/mananshah12i/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Bit Manipulation
