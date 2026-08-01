@@ -55,12 +55,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/mananshah12i/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/mananshah12i/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/mananshah12i/LeetCode/tree/master/0119-pascals-triangle-ii) |
+| [0137-single-number-ii](https://github.com/mananshah12i/LeetCode/tree/master/0137-single-number-ii) |
 | [0268-missing-number](https://github.com/mananshah12i/LeetCode/tree/master/0268-missing-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mananshah12i/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3875-construct-uniform-parity-array-i](https://github.com/mananshah12i/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0137-single-number-ii](https://github.com/mananshah12i/LeetCode/tree/master/0137-single-number-ii) |
 | [0268-missing-number](https://github.com/mananshah12i/LeetCode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/mananshah12i/LeetCode/tree/master/0389-find-the-difference) |
 ## Heap (Priority Queue)
