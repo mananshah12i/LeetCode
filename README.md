@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/mananshah12i/LeetCode/tree/master/0007-reverse-integer) |
+| [0069-sqrtx](https://github.com/mananshah12i/LeetCode/tree/master/0069-sqrtx) |
 | [0171-excel-sheet-column-number](https://github.com/mananshah12i/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0268-missing-number](https://github.com/mananshah12i/LeetCode/tree/master/0268-missing-number) |
 | [3875-construct-uniform-parity-array-i](https://github.com/mananshah12i/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
@@ -83,9 +84,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/mananshah12i/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0069-sqrtx](https://github.com/mananshah12i/LeetCode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/mananshah12i/LeetCode/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/mananshah12i/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/mananshah12i/LeetCode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
