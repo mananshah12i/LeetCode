@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/mananshah12i/LeetCode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/mananshah12i/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/mananshah12i/LeetCode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/mananshah12i/LeetCode/tree/master/0290-word-pattern) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/mananshah12i/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/mananshah12i/LeetCode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/mananshah12i/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/mananshah12i/LeetCode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/mananshah12i/LeetCode/tree/master/0389-find-the-difference) |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/mananshah12i/LeetCode/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/mananshah12i/LeetCode/tree/master/0383-ransom-note) |
 ## Array
 |  |
@@ -61,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/mananshah12i/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/mananshah12i/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0137-single-number-ii](https://github.com/mananshah12i/LeetCode/tree/master/0137-single-number-ii) |
+| [0169-majority-element](https://github.com/mananshah12i/LeetCode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/mananshah12i/LeetCode/tree/master/0268-missing-number) |
 | [0877-stone-game](https://github.com/mananshah12i/LeetCode/tree/master/0877-stone-game) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mananshah12i/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -97,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/mananshah12i/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/mananshah12i/LeetCode/tree/master/0169-majority-element) |
 ## Newton's Method
 |  |
 | ------- |
@@ -117,4 +122,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/mananshah12i/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/mananshah12i/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
