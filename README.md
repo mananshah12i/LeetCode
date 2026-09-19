@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/mananshah12i/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0268-missing-number](https://github.com/mananshah12i/LeetCode/tree/master/0268-missing-number) |
 | [0877-stone-game](https://github.com/mananshah12i/LeetCode/tree/master/0877-stone-game) |
+| [1323-maximum-69-number](https://github.com/mananshah12i/LeetCode/tree/master/1323-maximum-69-number) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/mananshah12i/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3875-construct-uniform-parity-array-i](https://github.com/mananshah12i/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1323-maximum-69-number](https://github.com/mananshah12i/LeetCode/tree/master/1323-maximum-69-number) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/mananshah12i/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Prefix Sum
 |  |
