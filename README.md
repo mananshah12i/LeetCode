@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/mananshah12i/LeetCode/tree/master/0389-find-the-difference) |
 | [0434-number-of-segments-in-a-string](https://github.com/mananshah12i/LeetCode/tree/master/0434-number-of-segments-in-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/mananshah12i/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [3498-reverse-degree-of-a-string](https://github.com/mananshah12i/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/mananshah12i/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Hash Table
 |  |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/mananshah12i/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/mananshah12i/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
