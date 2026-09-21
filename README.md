@@ -144,4 +144,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3903-smallest-stable-index-i](https://github.com/mananshah12i/LeetCode/tree/master/3903-smallest-stable-index-i) |
+## Database
+|  |
+| ------- |
+| [0627-swap-sex-of-employees](https://github.com/mananshah12i/LeetCode/tree/master/0627-swap-sex-of-employees) |
 <!---LeetCode Topics End-->
