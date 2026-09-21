@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/mananshah12i/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/mananshah12i/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0832-flipping-an-image](https://github.com/mananshah12i/LeetCode/tree/master/0832-flipping-an-image) |
 ## String
 |  |
 | ------- |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/mananshah12i/LeetCode/tree/master/0137-single-number-ii) |
 | [0169-majority-element](https://github.com/mananshah12i/LeetCode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/mananshah12i/LeetCode/tree/master/0268-missing-number) |
+| [0832-flipping-an-image](https://github.com/mananshah12i/LeetCode/tree/master/0832-flipping-an-image) |
 | [0877-stone-game](https://github.com/mananshah12i/LeetCode/tree/master/0877-stone-game) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mananshah12i/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/mananshah12i/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/mananshah12i/LeetCode/tree/master/0137-single-number-ii) |
 | [0268-missing-number](https://github.com/mananshah12i/LeetCode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/mananshah12i/LeetCode/tree/master/0389-find-the-difference) |
+| [0832-flipping-an-image](https://github.com/mananshah12i/LeetCode/tree/master/0832-flipping-an-image) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -130,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0832-flipping-an-image](https://github.com/mananshah12i/LeetCode/tree/master/0832-flipping-an-image) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/mananshah12i/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/mananshah12i/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 ## Boyer–Moore Majority Vote Algorithm
@@ -149,4 +153,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0627-swap-sex-of-employees](https://github.com/mananshah12i/LeetCode/tree/master/0627-swap-sex-of-employees) |
+## Matrix
+|  |
+| ------- |
+| [0832-flipping-an-image](https://github.com/mananshah12i/LeetCode/tree/master/0832-flipping-an-image) |
 <!---LeetCode Topics End-->
