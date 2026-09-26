@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/mananshah12i/LeetCode/tree/master/0007-reverse-integer) |
 | [0069-sqrtx](https://github.com/mananshah12i/LeetCode/tree/master/0069-sqrtx) |
 | [0171-excel-sheet-column-number](https://github.com/mananshah12i/LeetCode/tree/master/0171-excel-sheet-column-number) |
+| [0258-add-digits](https://github.com/mananshah12i/LeetCode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/mananshah12i/LeetCode/tree/master/0268-missing-number) |
 | [0877-stone-game](https://github.com/mananshah12i/LeetCode/tree/master/0877-stone-game) |
 | [1323-maximum-69-number](https://github.com/mananshah12i/LeetCode/tree/master/1323-maximum-69-number) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/mananshah12i/LeetCode/tree/master/0258-add-digits) |
 | [0832-flipping-an-image](https://github.com/mananshah12i/LeetCode/tree/master/0832-flipping-an-image) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/mananshah12i/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/mananshah12i/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
@@ -157,4 +159,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0832-flipping-an-image](https://github.com/mananshah12i/LeetCode/tree/master/0832-flipping-an-image) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/mananshah12i/LeetCode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
