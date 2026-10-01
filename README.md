@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0434-number-of-segments-in-a-string](https://github.com/mananshah12i/LeetCode/tree/master/0434-number-of-segments-in-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/mananshah12i/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0709-to-lower-case](https://github.com/mananshah12i/LeetCode/tree/master/0709-to-lower-case) |
+| [0771-jewels-and-stones](https://github.com/mananshah12i/LeetCode/tree/master/0771-jewels-and-stones) |
 | [3498-reverse-degree-of-a-string](https://github.com/mananshah12i/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/mananshah12i/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Hash Table
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/mananshah12i/LeetCode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/mananshah12i/LeetCode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/mananshah12i/LeetCode/tree/master/0389-find-the-difference) |
+| [0771-jewels-and-stones](https://github.com/mananshah12i/LeetCode/tree/master/0771-jewels-and-stones) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/mananshah12i/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/mananshah12i/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Sorting
