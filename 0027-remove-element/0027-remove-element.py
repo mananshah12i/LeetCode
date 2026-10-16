@@ -7,4 +7,3 @@ class Solution(object):
         """
         for i in range(nums.count(val)):
             nums.remove(val)
-        
